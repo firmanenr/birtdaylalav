@@ -109,17 +109,10 @@ body {
 .six img {
   display: inline-block;
   height: 350px;
-  max-width: 100%;
-  /* height: auto; */
+  max-width: 150%;
+  height: auto;
 }
 
-.six .hat {
-  left: 41.5%;
-  position: absolute;
-  /* transform: scale(1); */
-  top: -35%;
-  width: 120px;
-}
 
 .baloons img {
   display: inline-block;
